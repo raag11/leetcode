@@ -13,3 +13,15 @@ Solutions are organized to reflect different categories and complexity levels.
 ├── Medium/
 ├── Hard/
 └── README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/raag11/leetcode/tree/master/1200-minimum-absolute-difference) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/raag11/leetcode/tree/master/1200-minimum-absolute-difference) |
+<!---LeetCode Topics End-->
