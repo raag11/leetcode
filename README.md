@@ -15,3 +15,15 @@ while (problem_unsolved) {
     implement(clean_code);
     debug(all_edge_cases);
 }
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/raag11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/raag11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+<!---LeetCode Topics End-->
