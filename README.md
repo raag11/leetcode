@@ -30,6 +30,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/raag11/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -41,6 +42,7 @@ while (problem_unsolved) {
 ## Hash Table
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/raag11/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -62,4 +64,8 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
