@@ -29,6 +29,7 @@ while (problem_unsolved) {
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raag11/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -77,9 +78,14 @@ while (problem_unsolved) {
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raag11/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
