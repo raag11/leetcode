@@ -29,6 +29,7 @@ while (problem_unsolved) {
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/raag11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -89,6 +90,7 @@ while (problem_unsolved) {
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/raag11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
