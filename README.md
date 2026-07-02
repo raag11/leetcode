@@ -21,6 +21,7 @@ while (problem_unsolved) {
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/raag11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ while (problem_unsolved) {
 | ------- |
 | [0031-next-permutation](https://github.com/raag11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raag11/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -74,6 +76,7 @@ while (problem_unsolved) {
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
@@ -129,4 +132,8 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raag11/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
