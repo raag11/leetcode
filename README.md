@@ -96,6 +96,7 @@ while (problem_unsolved) {
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/raag11/leetcode/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raag11/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -103,6 +104,7 @@ while (problem_unsolved) {
 | ------- |
 | [0031-next-permutation](https://github.com/raag11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/raag11/leetcode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
