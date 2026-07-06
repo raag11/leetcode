@@ -32,6 +32,7 @@ while (problem_unsolved) {
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raag11/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/raag11/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
@@ -55,6 +56,7 @@ while (problem_unsolved) {
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raag11/leetcode/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
