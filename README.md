@@ -23,6 +23,7 @@ while (problem_unsolved) {
 | ------- |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/raag11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/raag11/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
