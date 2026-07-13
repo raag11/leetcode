@@ -61,6 +61,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raag11/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raag11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raag11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -103,6 +104,7 @@ while (problem_unsolved) {
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raag11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/raag11/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raag11/leetcode/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +121,7 @@ while (problem_unsolved) {
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raag11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
