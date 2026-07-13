@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/remove-covered-intervals">1222. Remove Covered Intervals</a></h2><h3>Medium</h3><hr><p>Given an array <code>intervals</code> where <code>intervals[i] = [l<sub>i</sub>, r<sub>i</sub>]</code> represent the interval <code>[l<sub>i</sub>, r<sub>i</sub>)</code>, remove all intervals that are covered by another interval in the list.</p>
 
-<p>The interval <code>[a, b)</code> is covered by the interval <code>[c, d)</code> if and only if <code>c &lt;= a</code> and <code>b &lt;= d</code>.</p>
+<p>The interval  <code>[a, b)</code> is covered by the interval <code>[c, d)</code> if and only if <code>c &lt;= a</code> and <code>b &lt;= d</code>.</p>
 
 <p>Return <em>the number of remaining intervals</em>.</p>
 
