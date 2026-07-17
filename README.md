@@ -22,6 +22,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raag11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/raag11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -49,6 +50,7 @@ while (problem_unsolved) {
 | [2812-find-the-safest-path-in-a-grid](https://github.com/raag11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raag11/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raag11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/raag11/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -58,6 +60,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/raag11/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raag11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -68,6 +71,7 @@ while (problem_unsolved) {
 | [0003-longest-substring-without-repeating-characters](https://github.com/raag11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/raag11/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raag11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/raag11/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -89,6 +93,7 @@ while (problem_unsolved) {
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -131,6 +136,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/raag11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raag11/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/raag11/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -173,6 +179,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raag11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Topological Sort
@@ -191,4 +198,8 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/raag11/leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
