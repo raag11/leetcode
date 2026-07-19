@@ -41,6 +41,7 @@ while (problem_unsolved) {
 | ------- |
 | [0001-two-sum](https://github.com/raag11/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/raag11/leetcode/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/raag11/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -164,6 +165,7 @@ while (problem_unsolved) {
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raag11/leetcode/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/raag11/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/raag11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/raag11/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -199,6 +201,7 @@ while (problem_unsolved) {
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raag11/leetcode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raag11/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
 |  |
