@@ -22,6 +22,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raag11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/raag11/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -35,6 +36,7 @@ while (problem_unsolved) {
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/raag11/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/raag11/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -48,6 +50,7 @@ while (problem_unsolved) {
 | [0075-sort-colors](https://github.com/raag11/leetcode/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/raag11/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1288-remove-covered-intervals](https://github.com/raag11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/raag11/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -235,4 +238,12 @@ while (problem_unsolved) {
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/raag11/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/raag11/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
