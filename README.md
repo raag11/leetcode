@@ -23,6 +23,7 @@ while (problem_unsolved) {
 | ------- |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raag11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/raag11/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -38,6 +39,7 @@ while (problem_unsolved) {
 | ------- |
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/raag11/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/raag11/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/raag11/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -53,6 +55,7 @@ while (problem_unsolved) {
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1288-remove-covered-intervals](https://github.com/raag11/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/raag11/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raag11/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raag11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -246,4 +249,5 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
