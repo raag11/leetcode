@@ -25,6 +25,7 @@ while (problem_unsolved) {
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raag11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/raag11/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -59,6 +60,7 @@ while (problem_unsolved) {
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/raag11/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raag11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/raag11/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raag11/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/raag11/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -116,6 +118,7 @@ while (problem_unsolved) {
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raag11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/raag11/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
@@ -130,6 +133,7 @@ while (problem_unsolved) {
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raag11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/raag11/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -258,4 +262,17 @@ while (problem_unsolved) {
 | ------- |
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
