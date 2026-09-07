@@ -40,6 +40,7 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/raag11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/raag11/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raag11/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -150,6 +151,7 @@ while (problem_unsolved) {
 | [0003-longest-substring-without-repeating-characters](https://github.com/raag11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/raag11/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raag11/leetcode/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/raag11/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raag11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raag11/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raag11/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
