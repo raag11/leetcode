@@ -37,6 +37,7 @@ while (problem_unsolved) {
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/raag11/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raag11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/raag11/leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/raag11/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
