@@ -23,6 +23,7 @@ while (problem_unsolved) {
 | ------- |
 | [0204-count-primes](https://github.com/raag11/leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/raag11/leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/raag11/leetcode/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/raag11/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raag11/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
@@ -282,4 +283,8 @@ while (problem_unsolved) {
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/raag11/leetcode/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/raag11/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
