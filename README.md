@@ -174,6 +174,7 @@ while (problem_unsolved) {
 | [3499-maximize-active-section-with-trade-i](https://github.com/raag11/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/raag11/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raag11/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/raag11/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
